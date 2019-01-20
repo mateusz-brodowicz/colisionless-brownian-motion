@@ -1,0 +1,1 @@
+A colisionless model of movement with gravity and energy loss of N particles. Details in comments.
